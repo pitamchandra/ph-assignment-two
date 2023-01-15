@@ -460,6 +460,9 @@ footer .footer_text{
         flex-direction: column;
         padding: 0px 100px;
     }
+    .contact .contact_area{
+        padding: 30px 20px;
+    }
     .contact_form {
         padding: 26px;
     }
